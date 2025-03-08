@@ -1,0 +1,75 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "id": "71c4ccfd-6810-4044-b95a-7d9933ebe5a3",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Daisy,Daisy give me your answer,do.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"Daisy,Daisy give me your answer,do.\")\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 2,
+   "id": "ca0eec91-292c-493e-b097-f2e62d9d6554",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "I'm half crazy all for the love of you.\n",
+      "It wouln't be a stylish marriage.\n",
+      "I can't afford the carrage.\n",
+      "But you'll look sweet upon the seat on the bicycle bulit for two.\n"
+     ]
+    }
+   ],
+   "source": [
+    "print(\"I'm half crazy all for the love of you.\")\n",
+    "print(\"It wouln't be a stylish marriage.\")\n",
+    "print(\"I can't afford the carrage.\")\n",
+    "print(\"But you'll look sweet upon the seat on the bicycle bulit for two.\")"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "a8ad415d-5792-44ae-b7da-f3d4db4d3b9f",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
